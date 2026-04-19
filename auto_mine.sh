@@ -2,10 +2,10 @@
 
 while true
 do
-  echo "⛏️ Mining for 12 minutes..."
+  echo "⛏️ Mining for 20 minutes..."
 
-  timeout 720 bash ~/ccminer/start.sh
+  timeout 1200 bash ~/ccminer/start.sh
 
   echo "😌 Resting for 20 seconds..."
-  sleep 20
+  sleep 10
 done
