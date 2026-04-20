@@ -3,7 +3,7 @@
         [
             {
             "name": "MRR-US-WEST",
-            "url": "stratum+tcp://us-west01.miningrigrentals.com:50047",
+            "url": "stratum+tcp://us-east01.miningrigrentals.com:50095",
             "timeout": 180,
             "disabled": 0
         }
